@@ -1,7 +1,10 @@
 # Disable GG Sans
+### English
 Disable discord new font (GG sans)
 
-(Old font is Whitney)
+[Click to Download](https://dggsans.raisandesu.com/downloads/DisableGGSans_v1.theme.css)
 
-Discord の新しいフォント (GG Sans) を無効にします。
-(前のフォントは Whitney です)
+### Japanese (日本語)
+Discord の新しいフォント (GG sans) を無効にします
+
+[クリックしてダウンロード](https://dggsans.raisandesu.com/downloads/DisableGGSans_v1.theme.css)
