@@ -1,3 +1,12 @@
+/**
+ * @name Disable GG Sans
+ * @author Rai
+ * @version 1.0.1
+ * @description Disable discord new font (GG sans)
+ * @source https://github.com/raisandesu/disableggsans
+ */
+
+@import url(https://raw.githubusercontent.com/raisandesu/DisableGGSans/main/v1/theme.css);
  @font-face {
     font-family: Whitney;
     font-style: normal;
@@ -58,6 +67,13 @@
     font-weight: 700;
     src: url(https://discord.com/assets/5e1649183589023fb24667a369af585d.woff2) format("woff2"), url(https://ptb.discord.com/assets/5e1649183589023fb24667a369af585d.woff2) format("woff2"), url(https://canary.discord.com/assets/5e1649183589023fb24667a369af585d.woff2) format("woff2");
   }
+
+  
+:root {
+    --main-font: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+    --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace;
+}
+
   .theme-dark, .theme-light {
     --font-primary: Whitney, Whitney, "Whitney",Whitney,Whitney,Whitney!important;
     --font-display: Whitney, Whitney,"Whitney",Whitney,Whitney,Whitney!important;
