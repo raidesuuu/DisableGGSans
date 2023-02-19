@@ -1,3 +1,4 @@
+**not supported | サポートされていません**
 # Disable GG Sans
 ### English
 Disable discord new font (GG sans)
